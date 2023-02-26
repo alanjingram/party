@@ -1,0 +1,2 @@
+# party
+basic party project
